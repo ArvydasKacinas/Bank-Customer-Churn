@@ -1,5 +1,5 @@
 # Bank Customer Churn
- Bank Customer Churn Machine Learning project. 
+ Bank Customer Churn Machine Learning project. Dataset was taken from [Kaggle](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data)
 
 ## Goal
 Goal is to create classification model using ML logistic regression which could help **Bank** to identify potential customers that might **churn**.
