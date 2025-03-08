@@ -8,14 +8,16 @@ Models like this can help to invest a bit more time into customers and avoid los
 
 
 ## Key Takeaways:
--
--
--
+- Highest chance of churned customer (definition):
+    - Female
+    - Not active customer
+    - From Germany
+    - Elder person
+- Model recalls 77% of churned customers in test split.
 
 ## Improvement Areas:
--
--
--
+- Test different models to check if better performance can be found.
+- Bring more features (product/service usage, credit limits, account type, etc.)
 
 ## Clone the project:
 
